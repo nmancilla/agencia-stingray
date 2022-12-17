@@ -1,0 +1,29 @@
+body {
+  background-image: linear-gradient(to left, #8897a6 0%, #c9c6c6 100%);
+  margin: 0 auto;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  font-size: 16px;
+}
+button {
+  background-color: rgb(112, 190, 112);
+  color: rgb(61, 59, 59);
+  padding: 1rem 3rem;
+  margin-top: 3rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  text-decoration: none;
+  border-radius: 0.5rem;
+
+  width: 25%;
+  text-align: center;
+  border: none;
+}
+.imagen {
+  margin-top: 40px;
+  width: 300px;
+  height: 200px;
+  border-radius: 0.5rem;
+}
